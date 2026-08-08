@@ -32,6 +32,7 @@ Agora dedico meu tempo a **projetos pessoais**, explorando o **vibe coding**: pr
 
 | Projeto | Sobre |
 |---|---|
+| **[my-Harness-Library](https://github.com/Epaminondaslage/my-Harness-Library)** | Um catálogo pesquisável e auto-hospedado de todas as skills, agents, comandos, plugins e servidores MCP do Claude Code — com editor Markdown embutido no navegador para aqueles que pertencem a você. |
 | **[PLIEP](https://github.com/epaminondaslage/PLIEP)** | Instalações elétricas prediais: painéis didáticos, dispositivos de proteção, iluminação, sinalização e automação |
 | **[Kit-IoT](https://github.com/epaminondaslage/Kit-IoT)** | Kit de laboratório de IoT para o curso técnico |
 | **[Lab_Inf_Aplicada](https://github.com/epaminondaslage/Lab_Inf_Aplicada)** | Materiais da disciplina de Laboratório de Informática Aplicada |
