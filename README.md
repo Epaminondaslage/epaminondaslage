@@ -1,4 +1,4 @@
-<h1 align="center">Olá, eu sou o Epaminondas Lage 👋</h1>
+<h1 align="center">Olá, sou  Epaminondas Lage </h1>
 
 <p align="center">
   <em>Professor aposentado de Eletrotécnica · Hoje programando por prazer com <strong>vibe coding</strong></em>
@@ -16,7 +16,7 @@
 
 ### 🔧 Sobre mim
 
-Fui **professor do Departamento de Engenharia Elétrica** no curso de Eletrotécnica do **CEFET-MG**, onde atuei nas disciplinas de **Laboratório de Informática Aplicada** e **Instalações Prediais**. Depois de anos formando técnicos e compartilhando conhecimento, hoje sou **aposentado** — mas a curiosidade não se aposenta. 😄
+Fui **professor do DEE- Departamento de Engenharia Elétrica** no curso de Eletrotécnica do **CEFET-MG**, onde atuei nas disciplinas de **Laboratório de Informática Aplicada**, **Instalações Prediais**, **Acionamentos**, **Informática Aplicada** entre tantas outras disciplinas ao longo de mais de 43 anos de dedicação. Depois de anos formando técnicos e compartilhando conhecimento, hoje sou **aposentado** — mas a curiosidade não se aposenta. 😄
 
 Agora dedico meu tempo a **projetos pessoais**, explorando o **vibe coding**: programar de forma leve, criativa e movida pela vontade de aprender e construir coisas que me deixam curioso.
 
@@ -46,7 +46,7 @@ Agora dedico meu tempo a **projetos pessoais**, explorando o **vibe coding**: pr
 
 - 🎓 ORCID: [0000-0001-6674-7949](https://orcid.org/0000-0001-6674-7949)
 - 🏫 CEFET-MG: [cefetmg.br](http://cefetmg.br)
-
+- 🏫 Currículo Lattes: [Lattes](http://cefetmg.br)
 ---
 
 <p align="center">
