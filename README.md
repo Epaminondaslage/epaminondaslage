@@ -46,11 +46,7 @@ Agora dedico meu tempo a **projetos pessoais**, explorando o **vibe coding**: pr
 
 - 🎓 ORCID: [0000-0001-6674-7949](https://orcid.org/0000-0001-6674-7949)
 - 🏫 CEFET-MG: [cefetmg.br](http://cefetmg.br)
-- 🏫 Currículo Lattes: [Lattes](http://cefetmg.br)
+- 🏫 Currículo Lattes: [Lattes](http://lattes.cnpq.br/7787341723868111)
 ---
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=epaminondaslage&show_icons=true&hide_border=true&count_private=true" alt="Estatísticas do GitHub" height="165">
-</p>
 
 <p align="center"><em>⚡ Feito com curiosidade e um pouco de vibe coding.</em></p>
