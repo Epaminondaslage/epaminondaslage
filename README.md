@@ -16,7 +16,7 @@
 
 ### 🔧 Sobre mim
 
-Fui **professor do DEE — Departamento de Engenharia Elétrica** no curso de Eletrotécnica do **CEFET-MG**, onde atuei em **Laboratório de Informática Aplicada**, **Instalações Prediais**, **Acionamentos** e **Informática Aplicada**, entre tantas outras disciplinas ao longo de mais de 43 anos de dedicação. Depois de anos formando técnicos e compartilhando conhecimento, hoje sou **aposentado** — mas a curiosidade não se aposenta. 😄
+Fui **professor do DEE (Departamento de Engenharia Elétrica)** no curso de Eletrotécnica do **CEFET-MG**, onde atuei em **Laboratório de Informática Aplicada**, **Instalações Prediais**, **Acionamentos** e **Informática Aplicada**, entre tantas outras disciplinas ao longo de mais de 43 anos de dedicação. Depois de anos formando técnicos e compartilhando conhecimento, hoje sou **aposentado**, mas a curiosidade não se aposenta. 😄
 
 O que está aqui é, em boa parte, esse material de aula: **roteiros de laboratório, painéis didáticos, diagramas e projetos práticos**, abertos para quem quiser usar em sala ou aprender por conta. Agora dedico o tempo a **projetos pessoais**, explorando o **vibe coding**: programar de forma leve, criativa e movida pela vontade de construir.
 
