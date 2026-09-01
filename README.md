@@ -47,6 +47,8 @@ São mais de 70 repositórios próprios. Para não se perder neles, este é o ma
 | Projeto | Sobre |
 |---|---|
 | **[my-Harness-Library](https://github.com/Epaminondaslage/my-Harness-Library)** | Inventário auto-hospedado de tudo que uma instalação do Claude Code carrega — skills, agents, comandos, plugins e MCPs — com editor Markdown no navegador. Python de biblioteca padrão, sem dependências |
+| **[my-skill-agents-library](https://github.com/Epaminondaslage/my-skill-agents-library)** | Catálogo auto-hospedado de skills/agents/comandos/MCPs/plugins que ainda estou avaliando — status (candidata/aprovada/rejeitada), classificação automática por tipo e propósito, dados reais do GitHub. Irmão do my-Harness-Library, mesma stack |
+| **[guia-cicd-github-actions](https://github.com/Epaminondaslage/guia-cicd-github-actions)** | Guia pessoal de CI/CD com GitHub Actions, runners self-hosted e IA no pipeline |
 | **[mikrotik-monitor](https://github.com/Epaminondaslage/mikrotik-monitor)** | Painel de monitoramento para roteadores Mikrotik RB2011 |
 | **[monitor-cpu](https://github.com/Epaminondaslage/monitor-cpu)** | Monitor de CPU, memória e load average para servidores Linux |
 | **[inventory](https://github.com/Epaminondaslage/inventory)** | Script em Shell que levanta o inventário de máquinas da rede |
