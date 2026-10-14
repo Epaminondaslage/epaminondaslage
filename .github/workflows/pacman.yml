@@ -4,6 +4,16 @@ on:
   schedule:
     - cron: '0 0 * * *'
   workflow_dispatch:
+    inputs:
+      game:
+        description: 'Jogo da animação (auto = rodízio pelo dia)'
+        type: choice
+        default: auto
+        options:
+          - auto
+          - pacman
+          - snake
+          - galaga
   push:
     branches:
       - main
@@ -30,15 +40,22 @@ jobs:
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      - name: pick game of the day (rotates Pac-Man / snake / Galaga daily)
+      - name: pick game (manual choice, or daily rotation Pac-Man / snake / Galaga)
+        env:
+          CHOICE: ${{ github.event.inputs.game }}
         run: |
-          case $(( $(date -u +%s) / 86400 % 3 )) in
-            0) GAME=pacman-contribution-graph ;;
-            1) GAME=github-contribution-grid-snake ;;
-            2) GAME=galaga-contribution-graph ;;
+          case "$CHOICE" in
+            pacman) GAME=pacman-contribution-graph ;;
+            snake)  GAME=github-contribution-grid-snake ;;
+            galaga) GAME=galaga-contribution-graph ;;
+            *)
+              case $(( $(date -u +%s) / 86400 % 3 )) in
+                0) GAME=pacman-contribution-graph ;;
+                1) GAME=github-contribution-grid-snake ;;
+                2) GAME=galaga-contribution-graph ;;
+              esac ;;
           esac
-          echo "game of the day: $GAME"
-          ls dist
+          echo "game: $GAME"
           cp "dist/$GAME.svg" dist/contribution-of-the-day.svg
           if [ -f "dist/$GAME-dark.svg" ]; then
             cp "dist/$GAME-dark.svg" dist/contribution-of-the-day-dark.svg
