@@ -16,11 +16,19 @@ jobs:
     timeout-minutes: 20
 
     steps:
+      - uses: actions/checkout@v4
+
       - name: generate contribution graph SVGs
         uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: ${{ github.repository_owner }}
           games: 'pacman'
+
+      - name: generate real contribution graph (light/dark)
+        run: python3 scripts/contrib_graph.py dist
+        env:
+          GH_USER: ${{ github.repository_owner }}
+          GH_TOKEN: ${{ secrets.CONTRIB_TOKEN || github.token }}
 
       - name: push SVGs to the output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0

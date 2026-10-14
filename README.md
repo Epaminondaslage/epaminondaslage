@@ -82,7 +82,11 @@ São mais de 70 repositórios próprios. Para não se perder neles, este é o ma
   <summary><b>📊 Contribuições reais</b></summary>
   <br>
   <p align="center">
-    <img alt="Gráfico de contribuições" src="https://ghchart.rshah.org/Epaminondaslage" width="100%">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Epaminondaslage/epaminondaslage/output/contributions-graph-dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Epaminondaslage/epaminondaslage/output/contributions-graph.svg">
+      <img alt="Gráfico de contribuições" src="https://raw.githubusercontent.com/Epaminondaslage/epaminondaslage/output/contributions-graph.svg">
+    </picture>
   </p>
 </details>
 
