@@ -66,13 +66,17 @@ São mais de 70 repositórios próprios. Para não se perder neles, este é o ma
 
 ### 🕹️ Minhas contribuições
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Epaminondaslage/epaminondaslage/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Epaminondaslage/epaminondaslage/output/pacman-contribution-graph.svg">
-    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Epaminondaslage/epaminondaslage/output/pacman-contribution-graph.svg">
-  </picture>
-</p>
+<details open>
+  <summary><b>🕹️ Pac-Man das contribuições</b> (clique para ocultar/mostrar)</summary>
+  <br>
+  <p align="center">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Epaminondaslage/epaminondaslage/output/pacman-contribution-graph-dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Epaminondaslage/epaminondaslage/output/pacman-contribution-graph.svg">
+      <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Epaminondaslage/epaminondaslage/output/pacman-contribution-graph.svg">
+    </picture>
+  </p>
+</details>
 
 ### 📫 Onde me encontrar
 
