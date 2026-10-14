@@ -66,29 +66,15 @@ São mais de 70 repositórios próprios. Para não se perder neles, este é o ma
 
 ### 🕹️ Minhas contribuições
 
-<details name="contribuicoes" open>
-  <summary><b>🕹️ Pac-Man</b> (clique em outra aba para alternar)</summary>
-  <br>
-  <p align="center">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Epaminondaslage/epaminondaslage/output/pacman-contribution-graph-dark.svg">
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Epaminondaslage/epaminondaslage/output/pacman-contribution-graph.svg">
-      <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Epaminondaslage/epaminondaslage/output/pacman-contribution-graph.svg">
-    </picture>
-  </p>
-</details>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Epaminondaslage/epaminondaslage/output/contribution-of-the-day-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Epaminondaslage/epaminondaslage/output/contribution-of-the-day.svg">
+    <img alt="contribution graph game of the day" src="https://raw.githubusercontent.com/Epaminondaslage/epaminondaslage/output/contribution-of-the-day.svg">
+  </picture>
+</p>
 
-<details name="contribuicoes">
-  <summary><b>🐍 Cobrinha</b></summary>
-  <br>
-  <p align="center">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Epaminondaslage/epaminondaslage/output/github-contribution-grid-snake-dark.svg">
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Epaminondaslage/epaminondaslage/output/github-contribution-grid-snake.svg">
-      <img alt="snake contribution graph" src="https://raw.githubusercontent.com/Epaminondaslage/epaminondaslage/output/github-contribution-grid-snake.svg">
-    </picture>
-  </p>
-</details>
+<p align="center"><sub>🕹️ Um dia Pac-Man, no outro a cobrinha.</sub></p>
 
 ### 📫 Onde me encontrar
 

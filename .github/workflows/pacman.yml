@@ -30,6 +30,17 @@ jobs:
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
+      - name: pick game of the day (alternates Pac-Man / snake daily)
+        run: |
+          if [ $(( $(date -u +%s) / 86400 % 2 )) -eq 0 ]; then
+            GAME=pacman-contribution-graph
+          else
+            GAME=github-contribution-grid-snake
+          fi
+          echo "game of the day: $GAME"
+          cp "dist/$GAME.svg" dist/contribution-of-the-day.svg
+          cp "dist/$GAME-dark.svg" dist/contribution-of-the-day-dark.svg
+
       - name: push SVGs to the output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
