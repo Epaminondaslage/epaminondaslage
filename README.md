@@ -74,8 +74,6 @@ São mais de 70 repositórios próprios. Para não se perder neles, este é o ma
   </picture>
 </p>
 
-<p align="center"><sub>🕹️ Um dia Pac-Man, no outro a cobrinha, no outro o Galaga.</sub></p>
-
 ### 📫 Onde me encontrar
 
 - 🎓 ORCID: [0000-0001-6674-7949](https://orcid.org/0000-0001-6674-7949)
