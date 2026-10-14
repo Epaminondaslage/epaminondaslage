@@ -66,8 +66,8 @@ São mais de 70 repositórios próprios. Para não se perder neles, este é o ma
 
 ### 🕹️ Minhas contribuições
 
-<details open>
-  <summary><b>🕹️ Pac-Man das contribuições</b> (clique para ocultar/mostrar)</summary>
+<details name="contribuicoes" open>
+  <summary><b>🕹️ Pac-Man</b> (clique em outra aba para alternar)</summary>
   <br>
   <p align="center">
     <picture>
@@ -75,6 +75,14 @@ São mais de 70 repositórios próprios. Para não se perder neles, este é o ma
       <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Epaminondaslage/epaminondaslage/output/pacman-contribution-graph.svg">
       <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Epaminondaslage/epaminondaslage/output/pacman-contribution-graph.svg">
     </picture>
+  </p>
+</details>
+
+<details name="contribuicoes">
+  <summary><b>📊 Contribuições reais</b></summary>
+  <br>
+  <p align="center">
+    <img alt="Gráfico de contribuições" src="https://ghchart.rshah.org/Epaminondaslage" width="100%">
   </p>
 </details>
 
