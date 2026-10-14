@@ -64,6 +64,16 @@ São mais de 70 repositórios próprios. Para não se perder neles, este é o ma
 > Ensinar foi minha carreira. Aprender continua sendo meu hobby.
 > Hoje escrevo código pelo prazer de resolver problemas e ver ideias funcionando.
 
+### 🕹️ Minhas contribuições
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Epaminondaslage/epaminondaslage/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Epaminondaslage/epaminondaslage/output/pacman-contribution-graph.svg">
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Epaminondaslage/epaminondaslage/output/pacman-contribution-graph.svg">
+  </picture>
+</p>
+
 ### 📫 Onde me encontrar
 
 - 🎓 ORCID: [0000-0001-6674-7949](https://orcid.org/0000-0001-6674-7949)
