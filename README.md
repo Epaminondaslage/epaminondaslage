@@ -8,7 +8,7 @@
   <a href="https://orcid.org/0000-0001-6674-7949">
     <img src="https://img.shields.io/badge/ORCID-0000--0001--6674--7949-A6CE39?logo=orcid&logoColor=white" alt="ORCID">
   </a>
-  <img src="https://img.shields.io/badge/CEFET--MG-Eng.%20El%C3%A9trica-004a8f" alt="CEFET-MG">
+  <img src="https://img.shields.io/badge/UFCI--MG-Eng.%20El%C3%A9trica-004a8f" alt="CEFET-MG">
   <img src="https://img.shields.io/badge/Belo%20Horizonte-Brasil-009c3b" alt="Belo Horizonte">
 </p>
 
