@@ -1,56 +1,59 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 830 340" width="830" height="340" role="img" aria-labelledby="t">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 830 360" width="830" height="360" role="img" aria-labelledby="t">
 <title id="t">Olá, sou Epaminondas Lage. 43 anos formando técnicos em Eletrotécnica. Hoje programando por prazer.</title>
 <style>
-/* tokens: paper #f7f4ec ink #10313a muted #4b5f64 frame #24545c copper #8e4710 / #b25e1c petrol #0f6470 slate #5f6f75 */
-.paper{fill:#f7f4ec}
-.ink{fill:#10313a}
-.muted{fill:#4b5f64}
-.copper{fill:#8e4710}
+svg{--paper:#f7f4ec;--grid:#0f3d45;--grid-op:0.07;--ink:#10313a;--muted:#4b5f64;--frame:#24545c;--copper:#8e4710;--copper-line:#b25e1c;--petrol:#0f6470;--slate:#5f6f75}
+.paper{fill:var(--paper)}
+.ink{fill:var(--ink)}
+.muted{fill:var(--muted)}
+.copper{fill:var(--copper)}
+.petrol{fill:var(--petrol)}
+.slate{fill:var(--slate)}
+.dot{fill:var(--copper-line)}
 .sans{font-family:-apple-system, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif}
 .mono{font-family:ui-monospace, Menlo, Consolas, monospace}
-.frame{fill:none;stroke:#24545c;stroke-width:1.5}
-.thin{fill:none;stroke:#24545c;stroke-width:1}
-.wire{fill:none;stroke:#b25e1c;stroke-width:2}
-.run{animation:run 9s linear infinite}@keyframes run{from{transform:translateX(0)}to{transform:translateX(180px)}}@media (prefers-reduced-motion: reduce){.run{animation:none}}
+.frame{fill:none;stroke:var(--frame);stroke-width:1.5}
+.thin{fill:none;stroke:var(--frame);stroke-width:1}
+.wire{fill:none;stroke:var(--copper-line);stroke-width:2}
+.grid{fill:none;stroke:var(--grid);stroke-opacity:var(--grid-op)}.axis{stroke:var(--frame);stroke-width:1;stroke-dasharray:4 5;opacity:.6}.fase{fill:none;stroke-width:2.5;stroke-linecap:round}.f-copper{stroke:var(--copper-line)}.f-petrol{stroke:var(--petrol)}.f-slate{stroke:var(--slate)}.run{animation:run 9s linear infinite}@keyframes run{from{transform:translateX(0)}to{transform:translateX(180px)}}@media (prefers-reduced-motion: reduce){.run{animation:none}}
 </style>
-<rect class="paper" width="830" height="340"/>
-<defs><pattern id="g" width="20" height="20" patternUnits="userSpaceOnUse"><path d="M20 0H0V20" fill="none" stroke="#0f3d45" stroke-opacity="0.07"/></pattern><clipPath id="c"><rect x="96" y="250" width="700" height="72"/></clipPath><path id="w" d="M-264.0 286.0c38.2 -32.0 51.8 -32.0 90.0 0c38.2 32.0 51.8 32.0 90.0 0c38.2 -32.0 51.8 -32.0 90.0 0c38.2 32.0 51.8 32.0 90.0 0c38.2 -32.0 51.8 -32.0 90.0 0c38.2 32.0 51.8 32.0 90.0 0c38.2 -32.0 51.8 -32.0 90.0 0c38.2 32.0 51.8 32.0 90.0 0c38.2 -32.0 51.8 -32.0 90.0 0c38.2 32.0 51.8 32.0 90.0 0c38.2 -32.0 51.8 -32.0 90.0 0c38.2 32.0 51.8 32.0 90.0 0c38.2 -32.0 51.8 -32.0 90.0 0c38.2 32.0 51.8 32.0 90.0 0"/></defs>
-<rect x="22" y="22" width="786" height="296" fill="url(#g)"/>
-<rect class="frame" x="22" y="22" width="786" height="296"/>
+<rect class="paper" width="830" height="360"/>
+<defs><pattern id="g" width="20" height="20" patternUnits="userSpaceOnUse"><path class="grid" d="M20 0H0V20"/></pattern><clipPath id="c"><rect x="104" y="266" width="692" height="70"/></clipPath><path id="w" d="M-256.0 301.0c38.2 -32.0 51.8 -32.0 90.0 0c38.2 32.0 51.8 32.0 90.0 0c38.2 -32.0 51.8 -32.0 90.0 0c38.2 32.0 51.8 32.0 90.0 0c38.2 -32.0 51.8 -32.0 90.0 0c38.2 32.0 51.8 32.0 90.0 0c38.2 -32.0 51.8 -32.0 90.0 0c38.2 32.0 51.8 32.0 90.0 0c38.2 -32.0 51.8 -32.0 90.0 0c38.2 32.0 51.8 32.0 90.0 0c38.2 -32.0 51.8 -32.0 90.0 0c38.2 32.0 51.8 32.0 90.0 0c38.2 -32.0 51.8 -32.0 90.0 0c38.2 32.0 51.8 32.0 90.0 0"/></defs>
+<rect x="22" y="22" width="786" height="316" fill="url(#g)"/>
+<rect class="frame" x="22" y="22" width="786" height="316"/>
 <text class="mono muted" x="87.5" y="17" font-size="10" text-anchor="middle">1</text>
-<text class="mono muted" x="87.5" y="333" font-size="10" text-anchor="middle">1</text>
-<path class="thin" d="M153.0 14V22M153.0 318V326"/>
+<text class="mono muted" x="87.5" y="353" font-size="10" text-anchor="middle">1</text>
+<path class="thin" d="M153.0 14V22M153.0 338V346"/>
 <text class="mono muted" x="218.5" y="17" font-size="10" text-anchor="middle">2</text>
-<text class="mono muted" x="218.5" y="333" font-size="10" text-anchor="middle">2</text>
-<path class="thin" d="M284.0 14V22M284.0 318V326"/>
+<text class="mono muted" x="218.5" y="353" font-size="10" text-anchor="middle">2</text>
+<path class="thin" d="M284.0 14V22M284.0 338V346"/>
 <text class="mono muted" x="349.5" y="17" font-size="10" text-anchor="middle">3</text>
-<text class="mono muted" x="349.5" y="333" font-size="10" text-anchor="middle">3</text>
-<path class="thin" d="M415.0 14V22M415.0 318V326"/>
+<text class="mono muted" x="349.5" y="353" font-size="10" text-anchor="middle">3</text>
+<path class="thin" d="M415.0 14V22M415.0 338V346"/>
 <text class="mono muted" x="480.5" y="17" font-size="10" text-anchor="middle">4</text>
-<text class="mono muted" x="480.5" y="333" font-size="10" text-anchor="middle">4</text>
-<path class="thin" d="M546.0 14V22M546.0 318V326"/>
+<text class="mono muted" x="480.5" y="353" font-size="10" text-anchor="middle">4</text>
+<path class="thin" d="M546.0 14V22M546.0 338V346"/>
 <text class="mono muted" x="611.5" y="17" font-size="10" text-anchor="middle">5</text>
-<text class="mono muted" x="611.5" y="333" font-size="10" text-anchor="middle">5</text>
-<path class="thin" d="M677.0 14V22M677.0 318V326"/>
+<text class="mono muted" x="611.5" y="353" font-size="10" text-anchor="middle">5</text>
+<path class="thin" d="M677.0 14V22M677.0 338V346"/>
 <text class="mono muted" x="742.5" y="17" font-size="10" text-anchor="middle">6</text>
-<text class="mono muted" x="742.5" y="333" font-size="10" text-anchor="middle">6</text>
-<text class="mono muted" x="11" y="74.3" font-size="10" text-anchor="middle">A</text>
-<text class="mono muted" x="819" y="74.3" font-size="10" text-anchor="middle">A</text>
-<text class="mono muted" x="11" y="173.0" font-size="10" text-anchor="middle">B</text>
-<text class="mono muted" x="819" y="173.0" font-size="10" text-anchor="middle">B</text>
-<text class="mono muted" x="11" y="271.7" font-size="10" text-anchor="middle">C</text>
-<text class="mono muted" x="819" y="271.7" font-size="10" text-anchor="middle">C</text>
-<text class="sans muted" x="56" y="84" font-size="26">Olá, sou</text>
-<text class="sans ink" x="54" y="146" font-size="58" font-weight="700" letter-spacing="-0.5">Epaminondas Lage</text>
-<text class="sans ink" x="56" y="190" font-size="25">43 anos formando técnicos em Eletrotécnica</text>
-<text class="sans copper" x="56" y="224" font-size="25" font-weight="600">Hoje programando por prazer</text>
-<path d="M96 286H796" stroke="#24545c" stroke-width="1" stroke-dasharray="4 5" opacity="0.6"/>
-<text class="mono" x="56" y="270" font-size="14" font-weight="700" fill="#8e4710">L1</text>
-<text class="mono" x="56" y="287" font-size="14" font-weight="700" fill="#0f6470">L2</text>
-<text class="mono" x="56" y="304" font-size="14" font-weight="700" fill="#5f6f75">L3</text>
+<text class="mono muted" x="742.5" y="353" font-size="10" text-anchor="middle">6</text>
+<text class="mono muted" x="11" y="77.7" font-size="10" text-anchor="middle">A</text>
+<text class="mono muted" x="819" y="77.7" font-size="10" text-anchor="middle">A</text>
+<text class="mono muted" x="11" y="183.0" font-size="10" text-anchor="middle">B</text>
+<text class="mono muted" x="819" y="183.0" font-size="10" text-anchor="middle">B</text>
+<text class="mono muted" x="11" y="288.3" font-size="10" text-anchor="middle">C</text>
+<text class="mono muted" x="819" y="288.3" font-size="10" text-anchor="middle">C</text>
+<text class="sans muted" x="56" y="84" font-size="29">Olá, sou</text>
+<text class="sans ink" x="54" y="148" font-size="58" font-weight="700" letter-spacing="-0.5">Epaminondas Lage</text>
+<text class="sans ink" x="56" y="198" font-size="29">43 anos formando técnicos em Eletrotécnica</text>
+<text class="sans copper" x="56" y="240" font-size="29" font-weight="600">Hoje programando por prazer</text>
+<path class="axis" d="M104 301H796"/>
+<text class="mono copper" x="54" y="285" font-size="19" font-weight="700">L1</text>
+<text class="mono petrol" x="54" y="306" font-size="19" font-weight="700">L2</text>
+<text class="mono slate" x="54" y="327" font-size="19" font-weight="700">L3</text>
 <g clip-path="url(#c)"><g class="run">
-<use href="#w" transform="translate(0.0 0)" fill="none" stroke="#b25e1c" stroke-width="2.5" stroke-linecap="round"/>
-<use href="#w" transform="translate(60.0 0)" fill="none" stroke="#0f6470" stroke-width="2.5" stroke-linecap="round"/>
-<use href="#w" transform="translate(120.0 0)" fill="none" stroke="#5f6f75" stroke-width="2.5" stroke-linecap="round"/>
+<use href="#w" class="fase f-copper" transform="translate(0.0 0)"/>
+<use href="#w" class="fase f-petrol" transform="translate(60.0 0)"/>
+<use href="#w" class="fase f-slate" transform="translate(120.0 0)"/>
 </g></g>
 </svg>

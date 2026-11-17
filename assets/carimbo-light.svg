@@ -1,16 +1,19 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 168" width="420" height="168" role="img" aria-labelledby="t">
 <title id="t">Carimbo: Epaminondas Lage, UFCIMG (antigo CEFET-MG), DEE, Belo Horizonte, Brasil</title>
 <style>
-/* tokens: paper #f7f4ec ink #10313a muted #4b5f64 frame #24545c copper #8e4710 / #b25e1c petrol #0f6470 slate #5f6f75 */
-.paper{fill:#f7f4ec}
-.ink{fill:#10313a}
-.muted{fill:#4b5f64}
-.copper{fill:#8e4710}
+svg{--paper:#f7f4ec;--grid:#0f3d45;--grid-op:0.07;--ink:#10313a;--muted:#4b5f64;--frame:#24545c;--copper:#8e4710;--copper-line:#b25e1c;--petrol:#0f6470;--slate:#5f6f75}
+.paper{fill:var(--paper)}
+.ink{fill:var(--ink)}
+.muted{fill:var(--muted)}
+.copper{fill:var(--copper)}
+.petrol{fill:var(--petrol)}
+.slate{fill:var(--slate)}
+.dot{fill:var(--copper-line)}
 .sans{font-family:-apple-system, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif}
 .mono{font-family:ui-monospace, Menlo, Consolas, monospace}
-.frame{fill:none;stroke:#24545c;stroke-width:1.5}
-.thin{fill:none;stroke:#24545c;stroke-width:1}
-.wire{fill:none;stroke:#b25e1c;stroke-width:2}
+.frame{fill:none;stroke:var(--frame);stroke-width:1.5}
+.thin{fill:none;stroke:var(--frame);stroke-width:1}
+.wire{fill:none;stroke:var(--copper-line);stroke-width:2}
 
 </style>
 <rect class="paper" width="420" height="168"/>

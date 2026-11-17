@@ -1,23 +1,26 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 223 40" width="223" height="40" role="img" aria-labelledby="t">
 <title id="t">Sobre mim</title>
 <style>
-/* tokens: paper #0f1b1f ink #e7eee9 muted #a6b7b5 frame #6f9a9c copper #e8a55c / #d98c3e petrol #5fbcb9 slate #97a8ae */
-.paper{fill:#0f1b1f}
-.ink{fill:#e7eee9}
-.muted{fill:#a6b7b5}
-.copper{fill:#e8a55c}
+svg{--paper:#0f1b1f;--grid:#9fd0cf;--grid-op:0.06;--ink:#e7eee9;--muted:#a6b7b5;--frame:#6f9a9c;--copper:#e8a55c;--copper-line:#d98c3e;--petrol:#5fbcb9;--slate:#97a8ae}
+.paper{fill:var(--paper)}
+.ink{fill:var(--ink)}
+.muted{fill:var(--muted)}
+.copper{fill:var(--copper)}
+.petrol{fill:var(--petrol)}
+.slate{fill:var(--slate)}
+.dot{fill:var(--copper-line)}
 .sans{font-family:-apple-system, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif}
 .mono{font-family:ui-monospace, Menlo, Consolas, monospace}
-.frame{fill:none;stroke:#6f9a9c;stroke-width:1.5}
-.thin{fill:none;stroke:#6f9a9c;stroke-width:1}
-.wire{fill:none;stroke:#d98c3e;stroke-width:2}
+.frame{fill:none;stroke:var(--frame);stroke-width:1.5}
+.thin{fill:none;stroke:var(--frame);stroke-width:1}
+.wire{fill:none;stroke:var(--copper-line);stroke-width:2}
 
 </style>
-<circle cx="8" cy="20" r="4.5" fill="none" stroke="#6f9a9c" stroke-width="1.5"/>
-<path d="M5 23L11 17" stroke="#6f9a9c" stroke-width="1.5"/>
+<circle class="frame" cx="8" cy="20" r="4.5"/>
+<path class="frame" d="M5 23L11 17"/>
 <rect class="frame" x="16" y="7" width="44" height="26"/>
 <text class="mono ink" x="38" y="25.5" font-size="15" font-weight="700" text-anchor="middle">X1</text>
 <path class="wire" d="M60 20H76"/>
-<circle cx="77" cy="20" r="3" fill="#d98c3e"/>
+<circle class="dot" cx="77" cy="20" r="3"/>
 <text class="sans ink" x="86" y="27" font-size="20" font-weight="700">Sobre mim</text>
 </svg>
