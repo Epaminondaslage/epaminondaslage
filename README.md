@@ -1,7 +1,7 @@
 <h1 align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
-    <img width="100%" alt="Olá, sou Epaminondas Lage. 43 anos formando técnicos em Eletrotécnica. Hoje programando por prazer." src="assets/banner-light.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Epaminondaslage/Epaminondaslage/main/assets/banner-dark.svg">
+    <img width="100%" alt="Olá, sou Epaminondas Lage. 43 anos formando técnicos em Eletrotécnica. Hoje programando por prazer." src="https://raw.githubusercontent.com/Epaminondaslage/Epaminondaslage/main/assets/banner-light.svg">
   </picture>
 </h1>
 
@@ -15,8 +15,8 @@
 
 <h3>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/secao-sobre-mim-dark.svg">
-    <img alt="Sobre mim" src="assets/secao-sobre-mim-light.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Epaminondaslage/Epaminondaslage/main/assets/secao-sobre-mim-dark.svg">
+    <img alt="Sobre mim" src="https://raw.githubusercontent.com/Epaminondaslage/Epaminondaslage/main/assets/secao-sobre-mim-light.svg">
   </picture>
 </h3>
 
@@ -28,8 +28,8 @@ Boa parte do que está aqui é material de aula: **roteiros de laboratório, pai
 
 <h3>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/secao-acervo-dark.svg">
-    <img alt="O acervo, por assunto" src="assets/secao-acervo-light.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Epaminondaslage/Epaminondaslage/main/assets/secao-acervo-dark.svg">
+    <img alt="O acervo, por assunto" src="https://raw.githubusercontent.com/Epaminondaslage/Epaminondaslage/main/assets/secao-acervo-light.svg">
   </picture>
 </h3>
 
@@ -45,8 +45,8 @@ São mais de 70 repositórios próprios. Para não se perder neles, este é o ma
 
 <h3>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/secao-mais-procurados-dark.svg">
-    <img alt="Mais procurados" src="assets/secao-mais-procurados-light.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Epaminondaslage/Epaminondaslage/main/assets/secao-mais-procurados-dark.svg">
+    <img alt="Mais procurados" src="https://raw.githubusercontent.com/Epaminondaslage/Epaminondaslage/main/assets/secao-mais-procurados-light.svg">
   </picture>
 </h3>
 
@@ -60,8 +60,8 @@ São mais de 70 repositórios próprios. Para não se perder neles, este é o ma
 
 <h3>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/secao-construindo-dark.svg">
-    <img alt="O que ando construindo" src="assets/secao-construindo-light.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Epaminondaslage/Epaminondaslage/main/assets/secao-construindo-dark.svg">
+    <img alt="O que ando construindo" src="https://raw.githubusercontent.com/Epaminondaslage/Epaminondaslage/main/assets/secao-construindo-light.svg">
   </picture>
 </h3>
 
@@ -78,8 +78,8 @@ São mais de 70 repositórios próprios. Para não se perder neles, este é o ma
 
 <h3>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/secao-interesses-dark.svg">
-    <img alt="Áreas de interesse" src="assets/secao-interesses-light.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Epaminondaslage/Epaminondaslage/main/assets/secao-interesses-dark.svg">
+    <img alt="Áreas de interesse" src="https://raw.githubusercontent.com/Epaminondaslage/Epaminondaslage/main/assets/secao-interesses-light.svg">
   </picture>
 </h3>
 
@@ -87,8 +87,8 @@ Eletrotécnica e instalações prediais · IoT e automação (Arduino, ESP32, C+
 
 <h3>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/secao-filosofia-dark.svg">
-    <img alt="Filosofia atual" src="assets/secao-filosofia-light.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Epaminondaslage/Epaminondaslage/main/assets/secao-filosofia-dark.svg">
+    <img alt="Filosofia atual" src="https://raw.githubusercontent.com/Epaminondaslage/Epaminondaslage/main/assets/secao-filosofia-light.svg">
   </picture>
 </h3>
 
@@ -97,8 +97,8 @@ Eletrotécnica e instalações prediais · IoT e automação (Arduino, ESP32, C+
 
 <h3>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/secao-contribuicoes-dark.svg">
-    <img alt="Minhas contribuições" src="assets/secao-contribuicoes-light.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Epaminondaslage/Epaminondaslage/main/assets/secao-contribuicoes-dark.svg">
+    <img alt="Minhas contribuições" src="https://raw.githubusercontent.com/Epaminondaslage/Epaminondaslage/main/assets/secao-contribuicoes-light.svg">
   </picture>
 </h3>
 
@@ -112,8 +112,8 @@ Eletrotécnica e instalações prediais · IoT e automação (Arduino, ESP32, C+
 
 <h3>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/secao-contato-dark.svg">
-    <img alt="Onde me encontrar" src="assets/secao-contato-light.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Epaminondaslage/Epaminondaslage/main/assets/secao-contato-dark.svg">
+    <img alt="Onde me encontrar" src="https://raw.githubusercontent.com/Epaminondaslage/Epaminondaslage/main/assets/secao-contato-light.svg">
   </picture>
 </h3>
 
@@ -123,8 +123,8 @@ Eletrotécnica e instalações prediais · IoT e automação (Arduino, ESP32, C+
 
 <p align="right">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/carimbo-dark.svg">
-    <img alt="Carimbo: Epaminondas Lage, UFCIMG (antigo CEFET-MG), DEE, Belo Horizonte, Brasil" src="assets/carimbo-light.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Epaminondaslage/Epaminondaslage/main/assets/carimbo-dark.svg">
+    <img alt="Carimbo: Epaminondas Lage, UFCIMG (antigo CEFET-MG), DEE, Belo Horizonte, Brasil" src="https://raw.githubusercontent.com/Epaminondaslage/Epaminondaslage/main/assets/carimbo-light.svg">
   </picture>
 </p>
 
