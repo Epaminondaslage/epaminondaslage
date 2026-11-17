@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 168" width="420" height="168" role="img" aria-labelledby="t">
+<title id="t">Carimbo: Epaminondas Lage, UFCIMG (antigo CEFET-MG), DEE, Belo Horizonte, Brasil</title>
+<style>
+/* tokens: paper #0f1b1f ink #e7eee9 muted #a6b7b5 frame #6f9a9c copper #e8a55c / #d98c3e petrol #5fbcb9 slate #97a8ae */
+.paper{fill:#0f1b1f}
+.ink{fill:#e7eee9}
+.muted{fill:#a6b7b5}
+.copper{fill:#e8a55c}
+.sans{font-family:-apple-system, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif}
+.mono{font-family:ui-monospace, Menlo, Consolas, monospace}
+.frame{fill:none;stroke:#6f9a9c;stroke-width:1.5}
+.thin{fill:none;stroke:#6f9a9c;stroke-width:1}
+.wire{fill:none;stroke:#d98c3e;stroke-width:2}
+
+</style>
+<rect class="paper" width="420" height="168"/>
+<rect class="frame" x="1" y="1" width="418" height="166"/>
+<path class="thin" d="M1 64H419M1 116H419M280 64V167"/>
+<text class="mono muted" x="14" y="22" font-size="12" letter-spacing="1">AUTOR</text>
+<text class="sans ink" x="14" y="48" font-size="24" font-weight="700">Epaminondas Lage</text>
+<text class="mono muted" x="14" y="84" font-size="12" letter-spacing="1">INSTITUIÇÃO</text>
+<text class="sans ink" x="14" y="107" font-size="16" font-weight="400">UFCIMG (antigo CEFET-MG)</text>
+<text class="mono muted" x="294" y="84" font-size="12" letter-spacing="1">DEPTO.</text>
+<text class="sans ink" x="294" y="107" font-size="16" font-weight="400">DEE</text>
+<text class="mono muted" x="14" y="136" font-size="12" letter-spacing="1">LOCAL</text>
+<text class="sans ink" x="14" y="159" font-size="16" font-weight="400">Belo Horizonte, Brasil</text>
+<text class="mono muted" x="294" y="136" font-size="12" letter-spacing="1">FOLHA</text>
+<text class="sans ink" x="294" y="159" font-size="16" font-weight="400">01/01</text>
+</svg>

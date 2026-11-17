@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 351 40" width="351" height="40" role="img" aria-labelledby="t">
+<title id="t">Minhas contribuições</title>
+<style>
+/* tokens: paper #f7f4ec ink #10313a muted #4b5f64 frame #24545c copper #8e4710 / #b25e1c petrol #0f6470 slate #5f6f75 */
+.paper{fill:#f7f4ec}
+.ink{fill:#10313a}
+.muted{fill:#4b5f64}
+.copper{fill:#8e4710}
+.sans{font-family:-apple-system, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif}
+.mono{font-family:ui-monospace, Menlo, Consolas, monospace}
+.frame{fill:none;stroke:#24545c;stroke-width:1.5}
+.thin{fill:none;stroke:#24545c;stroke-width:1}
+.wire{fill:none;stroke:#b25e1c;stroke-width:2}
+
+</style>
+<circle cx="8" cy="20" r="4.5" fill="none" stroke="#24545c" stroke-width="1.5"/>
+<path d="M5 23L11 17" stroke="#24545c" stroke-width="1.5"/>
+<rect class="frame" x="16" y="7" width="44" height="26"/>
+<text class="mono ink" x="38" y="25.5" font-size="15" font-weight="700" text-anchor="middle">X7</text>
+<path class="wire" d="M60 20H76"/>
+<circle cx="77" cy="20" r="3" fill="#b25e1c"/>
+<text class="sans ink" x="86" y="27" font-size="20" font-weight="700">Minhas contribuições</text>
+</svg>
