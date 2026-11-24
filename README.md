@@ -119,7 +119,7 @@ Eletrotécnica e instalações prediais · IoT e automação (Arduino, ESP32, C+
 
 - ORCID: [0000-0001-6674-7949](https://orcid.org/0000-0001-6674-7949)
 - Currículo Lattes: [lattes.cnpq.br](http://lattes.cnpq.br/7787341723868111)
-- CEFET-MG, hoje Universidade Federal de Ciência e Inovação de Minas Gerais (UFCIMG): [cefetmg.br](http://cefetmg.br)
+- CEFET-MG, hoje Universidade Federal de Ciência e Inovação de Minas Gerais (UFCIMG): [cefetmg.br](https://www.cefetmg.br)
 
 <p align="right">
   <picture>
